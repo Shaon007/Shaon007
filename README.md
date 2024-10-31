@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nazir Hossain</h1>
-<p align="left"> <img src="https://i.pinimg.com/originals/df/15/2b/df152b83c5319606e166c3f936943f12.gif" alt="shaon007" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/df/15/2b/df152b83c5319606e166c3f936943f12.gif" alt="shaon007" /> </p>
 
 - 🔭 I’m currently working on [Web Development & Machine-Learning](https://github.com/Shaon007/openCV)
 
