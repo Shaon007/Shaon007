@@ -1,7 +1,12 @@
 <!-- Typing Animation -->
+<!-- Typing Animation for Name Only -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nazir+Hossain;Full-Stack+Web+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nazir+Hossain" alt="Typing SVG" />
 </h1>
+
+<!-- Static Position Line -->
+<h3 align="center">💻 Full-Stack Web Developer | 🤖 ML Enthusiast</h3>
+
 
 <!-- Profile View Counter -->
 <p align="right">
