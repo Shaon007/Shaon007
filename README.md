@@ -9,17 +9,6 @@
 <h3 align="center">💻 Full-Stack Web Developer | 🤖 ML Enthusiast</h3>
 
 
-<!-- Profile View Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shaon007&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<!-- Profile GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/df/15/2b/df152b83c5319606e166c3f936943f12.gif" alt="shaon007" />
-</p>
-
----
 
 ### 🧠 About Me
 
