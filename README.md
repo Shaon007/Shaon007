@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Static Position Line -->
-<h3 align="center">💻 Full-Stack Web Developer | 🤖 ML Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast</h3>
 
 
 
