@@ -29,25 +29,32 @@
 
 ---
 
-### 💼 Featured Project
+### 💼 Featured Projects
 
-🚀 **[OpenCV Projects Repository](https://github.com/Shaon007/openCV)**  
-A growing collection of my Machine Learning & Computer Vision works using OpenCV.  
-Languages: `Python`, `OpenCV`, `NumPy`  
-Features: Real-time face detection, edge detection, filters, etc.
+
+🌐 **[EquiSport (Live Site)](https://equi-sports-e0b09.web.app/)** — [GitHub Repo](https://github.com/Shaon007/equiSports)  
+A responsive sports gear e-commerce site with dynamic product filtering, cart system, and smooth UI/UX.  
+Technologies: `React`, `Tailwind CSS`, `Context API`  
+Features: Add-to-cart, category filtering, responsive design, local storage support.
 
 ---
+
+🍽️ **[DineFlow (Live Site)](https://dine-flow-2abf7.web.app/)** — [GitHub Repo](https://github.com/Shaon007/Dine-Flow-Client)  
+A modern restaurant website that showcases digital menu, reservation form, and customer testimonials.  
+Technologies: `React`, `Tailwind CSS`, `Framer Motion`  
+Features: Interactive UI, hero banner, smooth animations, fully responsive.
+
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nazir hossain" target="_blank">
+  <a href="www.linkedin.com/in/nazirhossain007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/md nazir hossain" target="_blank">
+  <a href="https://www.facebook.com/share/16MuKeKRMo/ " target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/hossain.shaon007" target="_blank">
+  <a href="https://www.instagram.com/hossain.shaon007?igsh=MXdlbnVpZ3c4cmY3NQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
