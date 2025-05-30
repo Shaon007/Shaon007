@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on [Web Development & Machine-Learning](https://github.com/Shaon007/openCV)
+- 🔭 I’m currently working on [Web Development & Machine-Learning](https://github.com/Shaon007?tab=repositories)
 - 🌱 I’m currently learning **Python, Web Development, Machine Learning**
 - 💬 Ask me about **JavaScript, React, Python**
 - 📫 How to reach me: **nazirhossain.shaon@gmail.com**
