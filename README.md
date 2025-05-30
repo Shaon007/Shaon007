@@ -1,4 +1,5 @@
-<!-- Typing Animation -->
+<!-- Banner -->
+<img width="100%" src="https://i.postimg.cc/13Jtb10X/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" />
 <!-- Typing Animation for Name Only -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nazir+Hossain" alt="Typing SVG" />
