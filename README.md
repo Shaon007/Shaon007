@@ -38,7 +38,7 @@ Features: Interactive UI, hero banner, smooth animations, fully responsive.
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/nazirhossain007" target="www.linkedin.com/in/nazirhossain007">
+  <a href="https://www.linkedin.com/in/nazirhossain007" target="https://www.linkedin.com/in/nazirhossain007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/share/16MuKeKRMo/" target="https://www.facebook.com/share/16MuKeKRMo/">
