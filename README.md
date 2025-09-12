@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Python, Web Development, Machine Learning**
 - 💬 Ask me about **JavaScript, React, Python**
 - 📫 How to reach me: **nazirhossain.shaon@gmail.com**
-- 💻 PortFolio : [Nazir.h](https://portfolio-2b810.web.app/).
+- 💻 PortFolio : [nazir.h](https://portfolio-2b810.web.app/)
 
 ---
 
