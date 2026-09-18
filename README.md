@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://scholar.google.com](https://scholar.google.com/citations?hl=en&pli=1&user=q0U1nUcAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="[https://orcid.org](https://orcid.org/my-orcid?orcid=0009-0002-3098-9713)"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="[https://www.linkedin.com/in/nazirhossain007](https://www.linkedin.com/in/nazirhossain007/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q0U1nUcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0002-3098-9713"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.linkedin.com/in/nazirhossain007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://nazir-portfolio-8b437.web.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:nazirhossain.shaon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
