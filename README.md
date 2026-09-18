@@ -74,13 +74,4 @@ I am a postgraduate researcher and software engineer focusing on **Applied Machi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaon007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaon007&show_icons=true&locale=en" alt="shaon007" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaon007" alt="shaon007" />
-</p>
